@@ -11,6 +11,8 @@
         android:extractNativeLibs="true"
         android:theme="@style/Theme.MyApplication">
         <activity android:name=".MainActivity"></activity>
+        <activity android:name=".SocialFeed"></activity>
+
         <activity android:name=".UnityHandlerActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
