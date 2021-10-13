@@ -3,5 +3,5 @@ include ':app'
 
 include ':unityLibrary'
 
-project(':unityLibrary').projectDir = new File('/E:/UnityProjects/NewAndroidObject/unityLibrary')
+project(':unityLibrary').projectDir = new File('/F:/MallApp/Android_Unity_Test/unityLibrary')
 
